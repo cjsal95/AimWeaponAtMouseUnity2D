@@ -5,3 +5,6 @@ Aim a weapon at Mouse in Unity 2D
 
 # Hierarchy
 ![Hierarchy Set](https://github.com/user-attachments/assets/695bc13d-266b-44b2-b4f1-9e0b338583ad)
+
+# Inspector WeaponParent
+![WeaponParentInspector](https://github.com/user-attachments/assets/5b8d027f-1fed-4d01-a9e4-a2aa928bf664)
